@@ -1,0 +1,20 @@
+{
+  "name": "Geotechnical Engineering",
+  "short_name": "Geotechnical",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7C2D12",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "natural",
+  "scope": "/",
+  "description": "Professional geotechnical services in Ottawa, Canada. Soil studies, testing and technical consulting.",
+  "id": "/ottawa-1477"
+}

@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Ottawa
+
+> Geotechnical engineering services in Ottawa, Canada.
+
+## Services
+- [Anchors](https://ottawa.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://ottawa.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://ottawa.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://ottawa.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://ottawa.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://ottawa.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://ottawa.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://ottawa.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://ottawa.geotechnicalengineering.vip/footings/)
+- [Foundations](https://ottawa.geotechnicalengineering.vip/foundations/)
+- [Grain Size](https://ottawa.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://ottawa.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://ottawa.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://ottawa.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://ottawa.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://ottawa.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://ottawa.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://ottawa.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://ottawa.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://ottawa.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://ottawa.geotechnicalengineering.vip/piles/)
+- [Proctor Tests](https://ottawa.geotechnicalengineering.vip/proctor-tests/)
+- [Resistivity](https://ottawa.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://ottawa.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://ottawa.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://ottawa.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://ottawa.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://ottawa.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://ottawa.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://ottawa.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://ottawa.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://ottawa.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://ottawa.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://ottawa.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://ottawa.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://ottawa.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://ottawa.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://ottawa.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://ottawa.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://ottawa.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Ottawa, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
